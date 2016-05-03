@@ -12,6 +12,7 @@ The difference betweet Streaming API and REST API
 2. The REST APIs provide programmatic access to read and write Twitter data. Author a new Tweet, read author profile and follower data, and more.
 
 The introduction of .py files are shown as follow:
+
 1. twitter_streaming_with_4sq.py
 2. twitter_streaming_without_4sq.py
 3. get_user_follower.py
