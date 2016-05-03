@@ -14,8 +14,14 @@ The difference betweet Streaming API and REST API
 The introduction of .py files are shown as follow:
 
 1. twitter_streaming_with_4sq.py
+
 2. twitter_streaming_without_4sq.py
+
 3. get_user_follower.py
+
 4. get_user_show.py
+
 5. get_user_follower_timeline.py
+
 6. get_tweet_info.py
+
